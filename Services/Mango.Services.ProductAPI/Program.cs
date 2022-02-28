@@ -1,4 +1,3 @@
-using AutoMapper;
 using Mango.Services.ProductAPI;
 using Mango.Services.ProductAPI.DbContexts;
 using Mango.Services.ProductAPI.Repository;
